@@ -18,6 +18,7 @@ You are working as a Business Analyst for **b4u**, an online book sales platform
 The schema includes the following tables:
 
 - `authors`: Information about authors
+- `categories`: Book categories (e.g., Fiction, Non-fiction, Fantasy)
 - `books`: Book details such as title, price, category, stock, author_id
 - `customers`: Customer profiles
 - `orders`: Each purchase made
